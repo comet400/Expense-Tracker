@@ -1,0 +1,5 @@
+Rent|Housing|865
+Groceries|Food|320
+Subscriptions|School|60
+Bills|Water And Energy|125
+Insurance|Safety|20
